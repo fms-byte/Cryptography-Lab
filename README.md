@@ -80,7 +80,7 @@ Hence, Decryption is Successful.
 
 ## 2. Playfair Cipher:
 
-### ### Encryption:
+### Encryption:
 ```python
 import numpy
 
@@ -229,7 +229,7 @@ After converting to lowercase and removing spaces:  thisisatestmessagetocheckthe
 Ciphertext:  PDSXSXRSILLRILXBIFPRHYLETZCFQPNBIOKABEVFKM
 ```
 
-### ### Decryption:
+### Decryption:
 ```python
 import numpy
 
