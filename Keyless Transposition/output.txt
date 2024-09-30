@@ -1,0 +1,8 @@
+Given Plaintext: Md Farhan Masud Shohag
+Col: 5
+Matrix: 
+M d F a r 
+h a n M a 
+s u d S h 
+o h a g z 
+Encrypted Ciphertext: MhsodauhFndaaMSgrahz

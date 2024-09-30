@@ -1,0 +1,14 @@
+Plain Text: MdFarhanMasudShohagz
+Block Size: 4
+Key: [2, 0, 3, 4, 1]
+Input Matrix:
+M d F a r 
+h a n M a 
+s u d S h 
+o h a g z 
+Output Matrix:
+F M a r d 
+n h M a a 
+d s S h u 
+a o g z h 
+Cipher Text: FMardnhMaadsShuaogzh
